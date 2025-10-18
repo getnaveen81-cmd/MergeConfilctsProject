@@ -10,7 +10,7 @@ public class HelloWorld {
     }
 
     public static void dosomething(){
-        System.out.println("h22222i1");
+        System.out.println("h22qq222i1");
     }
 
 }
