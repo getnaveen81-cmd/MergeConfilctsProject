@@ -1,16 +1,16 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello Woqqqrldyy !!");
+        System.out.println("Hello Worldyy !!");
     }
 
     public static void printSomething(){
-        System.out.println("Priint something");
-        System.out.println("deee222o");
+        System.out.println("Print something");
+        System.out.println("de2o");
     }
 
     public static void dosomething(){
-        System.out.println("h22qqwwwqqqqqq222i1");
+        System.out.println("h22222i1");
     }
 
 }
