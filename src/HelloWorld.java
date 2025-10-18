@@ -6,11 +6,11 @@ public class HelloWorld {
 
     public static void printSomething(){
         System.out.println("Priint something");
-        System.out.println("deeeo");
+        System.out.println("deee222o");
     }
 
     public static void dosomething(){
-        System.out.println("h222i1");
+        System.out.println("h22222i1");
     }
 
 }
